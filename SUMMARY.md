@@ -15,3 +15,7 @@
 ## Buy Certificates of Ensurance
 
 * [BASIN CONFLUENCE](https://confluence.basin.global/)
+
+## Lapsed
+
+* [⌛ Lapsed Slips & Policies](lapsed/lapsed-slips-and-policies.md)
