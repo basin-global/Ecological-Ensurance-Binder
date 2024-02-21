@@ -31,19 +31,25 @@ layout:
 
 {% tabs %}
 {% tab title="Core Benefits Values" %}
+{% embed url="https://public.flourish.studio/visualisation/16873562/" %}
 
+_Source:_ [_The RealValue of Natural Capital Framework_](https://docs.basin.global/realvalue/why-put-a-value-on-nature)
 {% endtab %}
 
 {% tab title="Ecosystem Values" %}
+{% embed url="https://public.flourish.studio/visualisation/16873521/" %}
 
+_Source:_ [_The RealValue of Natural Capital Framework_](https://docs.basin.global/realvalue/why-put-a-value-on-nature)
 {% endtab %}
 
 {% tab title="Relational Value" %}
 {% embed url="https://public.flourish.studio/visualisation/16873453/" %}
+Relational Value of Natural Capital
+{% endembed %}
+
+_Source:_ [_The RealValue of Natural Capital Framework_](https://docs.basin.global/realvalue/why-put-a-value-on-nature)
 {% endtab %}
 {% endtabs %}
-
-{% embed url="https://public.flourish.studio/visualisation/16873453/" %}
 
 ## Gallery
 
