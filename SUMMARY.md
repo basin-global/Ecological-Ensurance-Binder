@@ -6,7 +6,7 @@
 
 * [🧾 Ecological Ensurance Slips](slips/ecological-ensurance-slips/README.md)
   * [83-Acre Wetland & Forest Southeast Savannas & Riparian Bioregion](slips/ecological-ensurance-slips/83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md)
-  * [74 acres of riparian, wetlands & forest in Southeast Savannas & Riparian Forests Bioregion](slips/ecological-ensurance-slips/74-acres-of-riparian-wetlands-and-forest-in-southeast-savannas-and-riparian-forests-bioregion.md)
+  * [74 acres of Riparian, Wetlands & Forest in Southeast Savannas & Riparian Forests Bioregion](slips/ecological-ensurance-slips/74-acres-of-riparian-wetlands-and-forest-in-southeast-savannas-and-riparian-forests-bioregion.md)
 
 ## Policies
 
