@@ -14,7 +14,7 @@
 
 ## Buy Certificates of Ensurance
 
-* [BASIN CONFLUENCE](https://confluence.basin.global/)
+* [📃 BASIN CONFLUENCE](https://confluence.basin.global/)
 
 ## Lapsed
 
