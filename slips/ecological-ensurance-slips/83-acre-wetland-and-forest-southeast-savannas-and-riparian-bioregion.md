@@ -31,17 +31,19 @@ layout:
 
 {% tabs %}
 {% tab title="Core Benefits Values" %}
-in processing
+
 {% endtab %}
 
 {% tab title="Ecosystem Values" %}
-in processing
+
 {% endtab %}
 
 {% tab title="Relational Value" %}
-in processing
+{% embed url="https://public.flourish.studio/visualisation/16873453/" %}
 {% endtab %}
 {% endtabs %}
+
+{% embed url="https://public.flourish.studio/visualisation/16873453/" %}
 
 ## Gallery
 
