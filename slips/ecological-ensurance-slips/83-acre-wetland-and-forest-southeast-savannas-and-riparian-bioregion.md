@@ -19,7 +19,7 @@ layout:
 
 # 83-Acre Wetland & Forest Southeast Savannas & Riparian Bioregion
 
-100% intact wetlands in the Southeast US Conifer Savannas Ecoregion providing primary [Core Benefits](https://docs.basin.global/core-benefits/natures-core-benefits) of Habitat, Resilience, Clean Water, Clean Air, Water Abundance, and Climate Stability. This 83 acre property features a mixed hardwood swamp with limited physical access. This gem qualifies for Ecological Ensurance and we are [actively seeking Ensurers](83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md#contact) and selling [Certificates of Ensurance](83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md#certificates-of-ensurance).
+100% intact wetlands in the Southeast US Conifer Savannas Ecoregion providing primary [Core Benefits](https://docs.basin.global/core-benefits/natures-core-benefits) of Habitat, Resilience, Clean Water, Clean Air, Water Abundance, and Climate Stability. This 83 acre property features a mixed hardwood swamp with limited physical access. This gem qualifies for Ecological Ensurance and we are actively seeking Ensurers and selling [Certificates of Ensurance](83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md#certificates-of-ensurance).
 
 ## Natural Capital Valuation
 

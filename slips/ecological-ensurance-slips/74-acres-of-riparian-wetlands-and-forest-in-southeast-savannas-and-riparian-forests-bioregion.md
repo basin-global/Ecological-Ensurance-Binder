@@ -17,9 +17,9 @@ layout:
     visible: true
 ---
 
-# 74 acres of riparian, wetlands & forest in Southeast Savannas & Riparian Forests Bioregion
+# 74 acres of Riparian, Wetlands & Forest in Southeast Savannas & Riparian Forests Bioregion
 
-Incredible river and wetlands suburban site in the Southeast US Conifer Savannas Ecoregion providing primary [Core Benefits](https://docs.basin.global/core-benefits/natures-core-benefits) of Recreation, Clean Water, Water Abundance, Resilience, Habitat, Clean Air, Climate Stability, and Pollination. This 74 acre property features an infill location near housing, commercial areas, and other recreation areas. This beauty qualifies for Ecological Ensurance and we are [actively seeking Ensurers](74-acres-of-riparian-wetlands-and-forest-in-southeast-savannas-and-riparian-forests-bioregion.md#contact) and selling [Certificates of Ensurance](74-acres-of-riparian-wetlands-and-forest-in-southeast-savannas-and-riparian-forests-bioregion.md#certificates-of-ensurance).&#x20;
+Incredible river and wetlands suburban site in the Southeast US Conifer Savannas Ecoregion providing primary [Core Benefits](https://docs.basin.global/core-benefits/natures-core-benefits) of Recreation, Clean Water, Water Abundance, Resilience, Habitat, Clean Air, Climate Stability, and Pollination. This 74 acre property features an infill location near housing, commercial areas, and other recreation areas. This beauty qualifies for Ecological Ensurance and we are actively seeking Ensurers and selling [Certificates of Ensurance](74-acres-of-riparian-wetlands-and-forest-in-southeast-savannas-and-riparian-forests-bioregion.md#certificates-of-ensurance).&#x20;
 
 With an overall Ecosystem Condition Score of 7.3 there is significant room to increase its Natural Capital Value. While the Real Asset Cost/Value is high relative to the Natural Capital Value, our Ensurance model provides numerous cost effective paths to protect, restore, and steward this environmental asset between now and 2050.
 
