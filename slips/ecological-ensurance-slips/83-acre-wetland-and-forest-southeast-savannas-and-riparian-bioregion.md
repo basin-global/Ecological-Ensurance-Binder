@@ -59,15 +59,41 @@ _Source:_ [_The RealValue of Natural Capital Framework_](https://docs.basin.glob
 
 ## Ecological Ensurance
 
-in underwriting
-
 {% tabs %}
 {% tab title="Ensurance Chart" %}
-in underwriting
+{% embed url="https://public.flourish.studio/visualisation/16873734/" %}
+
+_Source:_ [_Ecological Ensurance by BASIN_](https://docs.basin.global/ensurance/critical-infrastructure)
 {% endtab %}
 
 {% tab title="Ensurance Premiums" %}
-in underwriting
+## **Rate Card**
+
+<table><thead><tr><th>Policy</th><th width="126">Annual Premium</th><th>Protects Annual RealValue of</th><th width="91">Impact Multiple</th><th>Discount to RealValue</th></tr></thead><tbody><tr><td><strong>ENSURED</strong></td><td>$ 13,375</td><td>$ 1,449,703</td><td>108X</td><td>99%</td></tr><tr><td><strong>ENTRUST 2050</strong></td><td>$ 28,959</td><td>$ 1,449,703</td><td>50X</td><td>98%</td></tr><tr><td><strong>ENTRUST 2040</strong></td><td>$ 33,348</td><td>$ 1,449,703</td><td>43X</td><td>98%</td></tr><tr><td><strong>ENTRUST 2030</strong></td><td>$ 54,946</td><td>$ 1,449,703</td><td>26X</td><td>96%</td></tr><tr><td><strong>ENTRUST T-ZERO</strong></td><td>$ 294,250</td><td>$ 1,449,703</td><td>5X</td><td>80%</td></tr></tbody></table>
+
+## Ensurance Options
+
+### **ENSURED**
+
+This Ensurance Policy protects $1,449,703 of annual RealValue of Natural Capital a cost of $13,375 (a 99% discount) BUT this only provides temporary protection year by year. However this is the least expensive option and is a 108X impact multiple on the Ensurance Premium cost! A full Ensurance Policy can always be added at a later date.
+
+### ENTRUST 2050
+
+This Ensurance Policy protects $1,449,703 of annual RealValue of Natural Capital a cost of $28,959 (which is a 98% discount) from day one and PERMANENTLY protects the ecosystem and the benefits it provides at the end of the policy period in the year 2050 which is 27 years from now. This is a 50X impact multiple on the Ensurance Premium cost!
+
+### ENTRUST 2040
+
+This Ensurance Policy protects $1,449,703 of annual RealValue of Natural Capital a cost of $33,348 (which is a 98% discount) from day one and PERMANENTLY protects the ecosystem and the benefits it provides at the end of the policy period in the year 2040 which is 17 years from now. This is a 43X impact multiple on the Ensurance Premium cost!
+
+### ENTRUST 2030
+
+This Ensurance Policy protects $1,449,703 of annual RealValue of Natural Capital a cost of $54,946 (which is a 96% discount) from day one and PERMANENTLY protects the ecosystem and the benefits it provides at the end of the policy period in the year 2030 which is 7 years from now. This is a 26X impact multiple on the Ensurance Premium cost!
+
+### ENTRUST T-ZERO
+
+This Ensurance Policy protects $1,449,703 of annual RealValue of Natural Capital a cost of $294,250 (which is a 80% discount) from day one and PERMANENTLY protects the ecosystem and the benefits it provides NOW! This is a 5X impact multiple on the Ensurance Premium cost!
+
+_Source:_ [_Ecological Ensurance by BASIN_](https://docs.basin.global/ensurance/critical-infrastructure)
 {% endtab %}
 {% endtabs %}
 
