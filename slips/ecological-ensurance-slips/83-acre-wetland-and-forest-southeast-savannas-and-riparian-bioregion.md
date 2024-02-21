@@ -19,7 +19,7 @@ layout:
 
 # 83-Acre Wetland & Forest Southeast Savannas & Riparian Bioregion
 
-100% intact wetlands in the Southeast US Conifer Savannas Ecoregion providing primary [Core Benefits](https://docs.basin.global/core-benefits/natures-core-benefits) of Habitat, Resilience, Clean Water, Clean Air, Water Abundance, and Climate Stability. This 83 acre property features a mixed hardwood swamp with limited legal access. This gem qualifies for Ecological Ensurance and we are [actively seeking Ensurers](83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md#contact). Supporting [Certificates of Ensurance](83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md#certificates-of-ensurance) are available for purchase.
+100% intact wetlands in the Southeast US Conifer Savannas Ecoregion providing primary [Core Benefits](https://docs.basin.global/core-benefits/natures-core-benefits) of Habitat, Resilience, Clean Water, Clean Air, Water Abundance, and Climate Stability. This 83 acre property features a mixed hardwood swamp with limited physical access. This gem qualifies for Ecological Ensurance and we are [actively seeking Ensurers](83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md#contact) and selling [Certificates of Ensurance](83-acre-wetland-and-forest-southeast-savannas-and-riparian-bioregion.md#certificates-of-ensurance).
 
 ## Natural Capital Valuation
 
@@ -152,6 +152,14 @@ Available to [BASIN Members](https://confluence.basin.global/explore/POLYGON:0x4
 {% endtab %}
 
 {% tab title="On/Off Record" %}
+## Ecosystem Services Values (FLOWS) Notes
+
+ESV's based off BASIN RealValue Basis v2.
+
+## Real Asset (STOCKS) Notes
+
+There is no income currently on this property.  Certificates of Ensurance is the only source at this time.
+
 ## Available to BASIN Members:
 
 * property brochure
@@ -160,6 +168,7 @@ Available to [BASIN Members](https://confluence.basin.global/explore/POLYGON:0x4
 * detailed ecosystem / land cover delineation
 * per ecosystem RealValues
 * Ecological Indicators
+* calculations of Ensurance Premiums
 {% endtab %}
 {% endtabs %}
 
@@ -167,11 +176,12 @@ Available to [BASIN Members](https://confluence.basin.global/explore/POLYGON:0x4
 
 Property specific Certificates of Ensurance will not be issued until the site is fully underwritten and Ensured. However, these BASIN's fund ecosystem protection and restoration related to this site:
 
-* _coming soon_
+* _Specific Certificates coming soon_
+* [**These Certificates of Ensurance are available now**](https://confluence.basin.global/explore/POLYGON:0xc31b90964a5062376a62e2c772a6c4d422cd73b2)
 
 ## Contact
 
-To become an Ensurer or an Ensured, or for other questions and inquires please contact Thomas Morgan, CCIM at 1-970-618-4086 or [email / DM](https://docs.basin.global/dossier/contact).
+To become an Ensurer or an Ensured, or for other questions and inquiries please contact Thomas Morgan, CCIM at 1-970-618-4086 or [email / DM](https://docs.basin.global/dossier/contact).
 
 ### Fine Print
 
