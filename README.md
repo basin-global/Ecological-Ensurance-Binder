@@ -6,11 +6,11 @@
 
 The BASIN Ensurance Binder acts as a central hub for both potential and active ecological protection agreements. It features two main elements: Slips and Policies.
 
-### **Slips**
+### **Ensurance Slips**
 
 Slips detail ecological polygons (EPs) identified for ensurance. These are unique ecosystems or legally defined properties poised for ecological coverage under the [RealValue of Natural Capital](http://realvalue.basin.global/) framework. In Slip status, stakeholders can buy Certificates of Ensurance for broad ecological contributions, including ecosystems, bioregions, and specific species. Direct ensurance of a property becomes possible once transitioned to Policy status.
 
-### **Policies**
+### **Ensurance Policies**
 
 Transitioning from a Slip to an Ensurance Policy occurs when an EP is underwritten and an Ensurer pledges protection. This marks a formal commitment, enabling the issue of Certificates of Ensurance specific to the property, solidifying the dedication to safeguard the RealValue of Natural Capital outlined ecological polygon.
 
