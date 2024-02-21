@@ -19,3 +19,8 @@
 ## Lapsed
 
 * [⌛ Lapsed Slips & Policies](lapsed/lapsed-slips-and-policies.md)
+
+## BASIS
+
+* [📕 BASIN FIELD MANUAL](https://docs.basin.global/)
+* [📰 BASIN DISPATCHES](https://dispatches.basin.global/)
