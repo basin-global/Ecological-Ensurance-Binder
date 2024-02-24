@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/main-site-wide.png
+cover: ../.gitbook/assets/main-site-wide.png
 coverY: 0
 layout:
   cover:
@@ -53,9 +53,9 @@ _Source:_ [_The RealValue of Natural Capital Framework_](https://docs.basin.glob
 
 ## Gallery
 
-<figure><img src="../../.gitbook/assets/main-site-wide (1).png" alt=""><figcaption><p>83 Acres of Inland Wetland &#x26; Temperate Forest</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main-site-wide (1).png" alt=""><figcaption><p>83 Acres of Inland Wetland &#x26; Temperate Forest</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wetlands w floodplain.png" alt=""><figcaption><p>Wetlands &#x26; Floodplain</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wetlands w floodplain.png" alt=""><figcaption><p>Wetlands &#x26; Floodplain</p></figcaption></figure>
 
 ## Ecological Ensurance
 
@@ -174,10 +174,12 @@ There is no income currently on this property.  Certificates of Ensurance is the
 
 ## Certificates of Ensurance
 
-Property specific Certificates of Ensurance will not be issued until the site is fully underwritten and Ensured. However, these BASIN's fund ecosystem protection and restoration related to this site:
+Property specific Certificates of Ensurance will be issued once the policy is fully underwritten and the ecosystem Ensured. However, these BASIN's fund ecosystem protection and restoration related to this site now:
 
-* _Specific Certificates coming soon_
-* [**These Certificates of Ensurance are available now**](https://confluence.basin.global/explore/POLYGON:0xc31b90964a5062376a62e2c772a6c4d422cd73b2)
+* [American Alligator](https://rarible.com/token/polygon/0xc31b90964a5062376a62e2c772a6c4d422cd73b2:106282055932284421305851909092873061235365908855287448488472902084751838412853)
+* [American Black Bear](https://confluence.basin.global/token/POLYGON:0xc31b90964a5062376a62e2c772a6c4d422cd73b2:106282055932284421305851909092873061235365908855287448488472902084751838412853)
+* [Checkered Skipper](https://confluence.basin.global/token/POLYGON:0xc31b90964a5062376a62e2c772a6c4d422cd73b2:106282055932284421305851909092873061235365908855287448488472902084751838412819)
+* see the whole collection at [BASIN CONFLUENCE](https://confluence.basin.global)
 
 ## Contact
 
