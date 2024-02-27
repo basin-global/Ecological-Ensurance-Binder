@@ -21,6 +21,8 @@ layout:
 
 Former industrial site along the Ventura River, almost all floodplain.  Zoned Industrial (M-2) and Light Industrial (M-3).
 
+UPSIDE: If Ecosystem Condition score was a 10/10 there is another $657k of annual RealValue.
+
 ## Natural Capital Valuation
 
 **FLOWS:** $ 1,940,619 (annual)
